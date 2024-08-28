@@ -1,3 +1,9 @@
+## Author
+**Yuxuan Cai**  
+Student, School of System Science and Engineering,  
+Sun Yat-sen University  
+Email: [caiyx33@mail2.sysu.edu.cn](mailto:caiyx33@mail2.sysu.edu.cn)
+
 # Sbike-based-Kalman-Filter
 # Neural Signal Processing and State Estimation
 
